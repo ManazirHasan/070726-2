@@ -1,0 +1,13 @@
+Performance and Troubleshooting
+Fault Tolerance & Resilence
+Database & Data Consistency
+Caching Strategies
+Large Data processing 
+Microservices Communication
+Kafka & Event-Driven Architecture
+Kubernates & Containerization
+Distributed System & Trasactions
+API DEsgin & SEcurity
+JVM Memoru & Production DEbugging
+SQL optimization, indexing strategies, query execution plans, and database sharding are definitely critical senior-level topics.
+serverless design/deployment, incident response, API versioning, zero-downtime DB migrations and secrets management.
